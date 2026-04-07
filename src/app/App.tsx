@@ -6,6 +6,6 @@ export default function App() {
   return (
     <ErrorBoundary>
       <RouterProvider router={router} />
-    </ErrorBoundary>sadsaddsa
+    </ErrorBoundary>
   );
 }
