@@ -1,13 +1,13 @@
 import { useState } from 'react';
 import { Link } from 'react-router';
-import imgDownload1 from "figma:asset/40fd47087a8209825685cd309dec71edfd7b2688.png";
-import imgRectangle16 from "figma:asset/0b831fcbf272795100b519581bb3fda42f175054.png";
-import imgLogo from "figma:asset/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
-import imgClassTimetable from "figma:asset/073e92a11e089e72ee301bb7156eea617005b794.png";
-import imgImage1 from "figma:asset/b6741c2b64563e1a7c5a002f737ce6c65fac9a87.png";
-import imgGrades from "figma:asset/e5a75c750e424bfd4859fd395eb5f41b497168c3.png";
-import imgUniversityItems from "figma:asset/2a1bf899f17fb9f8bc0219924a6bbe777b0d508c.png";
-import imgImage2 from "figma:asset/4ead6895b8e3f68f43858e6f6ba9bf41421fe683.png";
+import imgDownload1 from "../../assets/40fd47087a8209825685cd309dec71edfd7b2688.png";
+import imgRectangle16 from "../../assets/0b831fcbf272795100b519581bb3fda42f175054.png";
+import imgLogo from "../../assets/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
+import imgClassTimetable from "../../assets/073e92a11e089e72ee301bb7156eea617005b794.png";
+import imgImage1 from "../../assets/b6741c2b64563e1a7c5a002f737ce6c65fac9a87.png";
+import imgGrades from "../../assets/e5a75c750e424bfd4859fd395eb5f41b497168c3.png";
+import imgUniversityItems from "../../assets/2a1bf899f17fb9f8bc0219924a6bbe777b0d508c.png";
+import imgImage2 from "../../assets/4ead6895b8e3f68f43858e6f6ba9bf41421fe683.png";
 
 export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

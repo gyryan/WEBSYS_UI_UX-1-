@@ -1,5 +1,5 @@
 import svgPaths from "./svg-m94vbop7em";
-import imgEllipse10 from "figma:asset/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
+import imgEllipse10 from "../assets/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
 
 export default function Desktop() {
   return (

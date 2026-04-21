@@ -7,3 +7,5 @@ export default function App() {
     <ErrorBoundary>
       <RouterProvider router={router} />
     </ErrorBoundary>
+  )
+}

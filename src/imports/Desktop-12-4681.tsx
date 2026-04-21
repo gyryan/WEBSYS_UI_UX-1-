@@ -1,6 +1,6 @@
 import clsx from "clsx";
 import svgPaths from "./svg-1q1icqekge";
-import imgEllipse10 from "figma:asset/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
+import imgEllipse10 from "../assets/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
 
 function Icon({ children }: React.PropsWithChildren<{}>) {
   return (

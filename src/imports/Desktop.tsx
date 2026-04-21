@@ -1,16 +1,16 @@
 import clsx from "clsx";
 import svgPaths from "./svg-1eevvs8j3t";
-import imgDownload1 from "figma:asset/40fd47087a8209825685cd309dec71edfd7b2688.png";
-import imgRectangle16 from "figma:asset/0b831fcbf272795100b519581bb3fda42f175054.png";
-import imgLogo from "figma:asset/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
-import imgEllipse5 from "figma:asset/f9a763985439d0fec9f22aa9e38187cb82f699c8.png";
-import imgEllipse6 from "figma:asset/053b137ebf3ac77aae9a0836abcc106b0fff9ede.png";
-import imgClassTimetableLineIconGraphics1447471311 from "figma:asset/073e92a11e089e72ee301bb7156eea617005b794.png";
-import imgImage1 from "figma:asset/b6741c2b64563e1a7c5a002f737ce6c65fac9a87.png";
-import imgGradesIconOutlineSetCollectionPackGradesIconLogoSignVectorOutlineBlackWhiteColor325733268RemovebgPreview1 from "figma:asset/e5a75c750e424bfd4859fd395eb5f41b497168c3.png";
-import imgLogo1 from "figma:asset/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
-import imgImageRemovebgPreview1 from "figma:asset/2a1bf899f17fb9f8bc0219924a6bbe777b0d508c.png";
-import imgImage2 from "figma:asset/4ead6895b8e3f68f43858e6f6ba9bf41421fe683.png";
+import imgDownload1 from "../assets/40fd47087a8209825685cd309dec71edfd7b2688.png";
+import imgRectangle16 from "../assets/0b831fcbf272795100b519581bb3fda42f175054.png";
+import imgLogo from "../assets/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
+import imgEllipse5 from "../assets/f9a763985439d0fec9f22aa9e38187cb82f699c8.png";
+import imgEllipse6 from "../assets/053b137ebf3ac77aae9a0836abcc106b0fff9ede.png";
+import imgClassTimetableLineIconGraphics1447471311 from "../assets/073e92a11e089e72ee301bb7156eea617005b794.png";
+import imgImage1 from "../assets/b6741c2b64563e1a7c5a002f737ce6c65fac9a87.png";
+import imgGradesIconOutlineSetCollectionPackGradesIconLogoSignVectorOutlineBlackWhiteColor325733268RemovebgPreview1 from "../assets/e5a75c750e424bfd4859fd395eb5f41b497168c3.png";
+import imgLogo1 from "../assets/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
+import imgImageRemovebgPreview1 from "../assets/2a1bf899f17fb9f8bc0219924a6bbe777b0d508c.png";
+import imgImage2 from "../assets/4ead6895b8e3f68f43858e6f6ba9bf41421fe683.png";
 type BackgroundImage2Props = {
   additionalClassNames?: string;
 };

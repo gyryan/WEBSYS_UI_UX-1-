@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router';
-import imgLogo from "figma:asset/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
-import imgRectangle43 from "figma:asset/50929cb240a06e73bd19312159f8cb9a9b86418a.png";
-import imgRectangle49 from "figma:asset/7537ef2f9f5520693de4a9b36bdf20b95c37e979.png";
+import imgLogo from "../../assets/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
+import imgRectangle43 from "../../assets/50929cb240a06e73bd19312159f8cb9a9b86418a.png";
+import imgRectangle49 from "../../assets/7537ef2f9f5520693de4a9b36bdf20b95c37e979.png";
 
 interface Event {
   id: number;

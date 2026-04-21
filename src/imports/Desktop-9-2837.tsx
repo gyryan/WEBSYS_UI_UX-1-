@@ -1,7 +1,7 @@
 import svgPaths from "./svg-95qa9g0idr";
-import imgEllipse10 from "figma:asset/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
-import imgRectangle43 from "figma:asset/50929cb240a06e73bd19312159f8cb9a9b86418a.png";
-import imgRectangle49 from "figma:asset/7537ef2f9f5520693de4a9b36bdf20b95c37e979.png";
+import imgEllipse10 from "../assets/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
+import imgRectangle43 from "../assets/50929cb240a06e73bd19312159f8cb9a9b86418a.png";
+import imgRectangle49 from "../assets/7537ef2f9f5520693de4a9b36bdf20b95c37e979.png";
 
 export default function Desktop() {
   return (

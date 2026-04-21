@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router';
-import imgLogo from "figma:asset/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
+import imgLogo from "../../assets/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
 
 interface DocumentRequest {
   documentType: string;

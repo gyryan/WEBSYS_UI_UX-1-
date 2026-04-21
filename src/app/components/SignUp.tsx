@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router';
-import imgLogo from "figma:asset/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
-import imgRectangle16 from "figma:asset/0b831fcbf272795100b519581bb3fda42f175054.png";
+import imgLogo from "../../assets/ef8f16c62f5fa34c9daeadcacb427b2964ace301.png";
+import imgRectangle16 from "../../assets/0b831fcbf272795100b519581bb3fda42f175054.png";
 
 export default function SignUp() {
   const [formData, setFormData] = useState({

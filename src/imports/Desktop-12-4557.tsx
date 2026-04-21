@@ -1,6 +1,6 @@
 import clsx from "clsx";
 import svgPaths from "./svg-dxvp008ecz";
-import imgEllipse10 from "figma:asset/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
+import imgEllipse10 from "../assets/9cbd2fad755b2981689246d30e2319d9e5d6377d.png";
 type DesktopHelperProps = {
   additionalClassNames?: string;
 };
